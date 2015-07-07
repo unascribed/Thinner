@@ -14,3 +14,8 @@ Remove the color red (#FF0000) from foo.png and write it to bar.png:
 
 Remove the color green (#00FF00) from baz.png and overwrite it:
 `thinner 00FF00 baz.png`
+
+## Compilation
+`make`
+
+You must have the DevIL headers installed.
